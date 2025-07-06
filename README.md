@@ -23,3 +23,5 @@ Instale as bibliotecas necessárias via pip:
 
 
 # Tutorial
+
+para exemplos de utilização da ferramenta clique [aqui](exemplos)
